@@ -1,3 +1,4 @@
+#Khairul's file
 #Task One
 Name       <- c("Aisha", "Bryan", "Chloe", "Daniel", "Emily")
 Gender     <- c("Female", "Male", "Female", "Male", "Female")
